@@ -2,4 +2,4 @@
 
 #DFS Algorithm
 
-![](./dfs_akgo.mp4)
+![](./dfs_algo.mp4)
