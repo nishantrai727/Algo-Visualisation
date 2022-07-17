@@ -4,7 +4,7 @@ from queue import PriorityQueue
 
 WIDTH = 800
 WIN = pygame.display.set_mode((WIDTH, WIDTH))
-pygame.display.set_caption("BFS ALGORITHM")
+pygame.display.set_caption("ASTAR ALGORITHM")
 
 
 RED = (255, 0, 0)
